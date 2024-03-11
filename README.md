@@ -9,9 +9,7 @@ Welcome to the Calm Product Landing Page repository. This project is a landing p
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
