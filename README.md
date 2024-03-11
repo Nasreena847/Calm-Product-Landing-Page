@@ -2,7 +2,7 @@
 
 Welcome to the Calm Product Landing Page repository. This project is a landing page for Calm, a meditation and relaxation app, designed to promote the features and benefits of the Calm app and encourage users to sign up or explore further.
 
-![Calm Landing Page Preview](link_to_preview_image)
+![Calm Landing Page Preview](https://github.com/Nasreena847/Calm-Product-Landing-Page/tree/main/images)
 
 ## Table of Contents
 
