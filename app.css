@@ -346,7 +346,7 @@ body {
 }
 
 .toggle-icon.x-icon:nth-child(1) {
-    transform: rotate(45deg) translate(13px, 13px);
+    transform: rotate(45deg) translate(14px, 14px);
 }
 
 .toggle-icon.x-icon:nth-child(3) {
@@ -424,7 +424,6 @@ body {
 /* Navbar for smaller screens */
 @media screen and (max-width: 1023px) {
     .navbar-item {
-        font-size: 2.8rem;
         margin-bottom: 10px;
     }
 
@@ -484,10 +483,10 @@ body {
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        top: 80px;
+        top: 0;
         left: 0;
         width: 100%;
-        height: 100%;
+        height: 20em;
         padding: 1rem 0;
         font-size: xx-large;
         text-decoration: none;
@@ -496,6 +495,10 @@ body {
 
     .navbar-menu.is-active .navbar-start {
         flex-direction: column;
+    }
+
+    .navbar-menu.is-active .navbar-start .navbar-item{
+        font-size: 2.8rem;
     }
 
     .navbar-start {
